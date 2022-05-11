@@ -1,0 +1,17 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+main.c:31:6:USART2_IRQHandler	16	static
+main.c:53:6:TIM2_IRQHandler	4	static
+main.c:85:6:TIM3_IRQHandler	4	static
+main.c:116:6:EXTI0_IRQHandler	8	static
+main.c:134:6:EXTI1_IRQHandler	8	static
+main.c:157:6:initPorts	4	static
+main.c:171:6:initButton	8	static
+main.c:220:6:initTIM2	8	static
+main.c:252:6:initTIM3	8	static
+main.c:273:6:initClk	4	static
+main.c:318:6:initUSART2	8	static
+main.c:354:6:txStr	32	static
+main.c:373:6:ExecuteCommand	24	static
+main.c:450:5:main	8	static
+main.c:473:6:delay	24	static
